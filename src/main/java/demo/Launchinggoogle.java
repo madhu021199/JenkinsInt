@@ -20,5 +20,8 @@ public class Launchinggoogle {
 		Thread.sleep(2000);
 		driver.close();
 System.out.println("welcome");
+System.out.println("welcome1");
+
+
 }
 }
