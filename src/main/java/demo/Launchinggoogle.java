@@ -19,6 +19,6 @@ public class Launchinggoogle {
 		driver.findElement(By.xpath("//textarea[@class='gLFyf']")).sendKeys("IMAGES",Keys.ENTER);
 		Thread.sleep(2000);
 		driver.close();
-
+System.out.println("welcome");
 }
 }
